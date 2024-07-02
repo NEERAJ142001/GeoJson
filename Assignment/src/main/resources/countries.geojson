@@ -1,0 +1,2679 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.601554,42.546245 ]
+    },
+    "properties": {
+    "ISO_A2":"AD",
+    "name":"Andorra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818,23.424076 ]
+    },
+    "properties": {
+    "ISO_A2":"AE",
+    "name":"United Arab Emirates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.709953,33.93911 ]
+    },
+    "properties": {
+    "ISO_A2":"AF",
+    "name":"Afghanistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.796428,17.060816 ]
+    },
+    "properties": {
+    "ISO_A2":"AG",
+    "name":"Antigua and Barbuda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.068615,18.220554 ]
+    },
+    "properties": {
+    "ISO_A2":"AI",
+    "name":"Anguilla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "ISO_A2":"AL",
+    "name":"Albania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "ISO_A2":"AM",
+    "name":"Armenia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.060087,12.226079 ]
+    },
+    "properties": {
+    "ISO_A2":"AN",
+    "name":"Netherlands Antilles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202692 ]
+    },
+    "properties": {
+    "ISO_A2":"AO",
+    "name":"Angola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071389,-75.250973 ]
+    },
+    "properties": {
+    "ISO_A2":"AQ",
+    "name":"Antarctica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "ISO_A2":"AR",
+    "name":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-14.270972, -170.132217 ]
+    },
+    "properties": {
+    "ISO_A2":"AS",
+    "name":"American Samoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "ISO_A2":"AT",
+    "name":"Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-25.274398, 133.775136 ]
+    },
+    "properties": {
+    "ISO_A2":"AU",
+    "name":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.968338,12.52111 ]
+    },
+    "properties": {
+    "ISO_A2":"AW",
+    "name":"Aruba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927,40.143105 ]
+    },
+    "properties": {
+    "ISO_A2":"AZ",
+    "name":"Azerbaijan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076,43.915886 ]
+    },
+    "properties": {
+    "ISO_A2":"BA",
+    "name":"Bosnia and Herzegovina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.543198,13.193887 ]
+    },
+    "properties": {
+    "ISO_A2":"BB",
+    "name":"Barbados"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [23.684994, 90.356331 ]
+    },
+    "properties": {
+    "ISO_A2":"BD",
+    "name":"Bangladesh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "ISO_A2":"BE",
+    "name":"Belgium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "ISO_A2":"BF",
+    "name":"Burkina Faso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "ISO_A2":"BG",
+    "name":"Bulgaria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414 ]
+    },
+    "properties": {
+    "ISO_A2":"BH",
+    "name":"Bahrain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.918886,-3.373056 ]
+    },
+    "properties": {
+    "ISO_A2":"BI",
+    "name":"Burundi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "ISO_A2":"BJ",
+    "name":"Benin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75737,32.321384 ]
+    },
+    "properties": {
+    "ISO_A2":"BM",
+    "name":"Bermuda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [4.535277, 114.727669]
+    },
+    "properties": {
+    "ISO_A2":"BN",
+    "name":"Brunei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "ISO_A2":"BO",
+    "name":"Bolivia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "ISO_A2":"BR",
+    "name":"Brazil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39628,25.03428 ]
+    },
+    "properties": {
+    "ISO_A2":"BS",
+    "name":"Bahamas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.514162,90.433601 ]
+    },
+    "properties": {
+    "ISO_A2":"BT",
+    "name":"Bhutan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.413194,-54.423199 ]
+    },
+    "properties": {
+    "ISO_A2":"BV",
+    "name":"Bouvet Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "ISO_A2":"BW",
+    "name":"Botswana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "ISO_A2":"BY",
+    "name":"Belarus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "ISO_A2":"BZ",
+    "name":"Belize"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [56.130366, -106.346771 ]
+    },
+    "properties": {
+    "ISO_A2":"CA",
+    "name":"Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-12.164165, 96.870956 ]
+    },
+    "properties": {
+    "ISO_A2":"CC",
+    "name":"Cocos [Keeling] Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.758664,-4.038333 ]
+    },
+    "properties": {
+    "ISO_A2":"CD",
+    "name":"Congo [DRC]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.939444,6.611111 ]
+    },
+    "properties": {
+    "ISO_A2":"CF",
+    "name":"Central African Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.827659,-0.228021 ]
+    },
+    "properties": {
+    "ISO_A2":"CG",
+    "name":"Congo [Republic]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227512,46.818188 ]
+    },
+    "properties": {
+    "ISO_A2":"CH",
+    "name":"Switzerland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.54708,7.539989 ]
+    },
+    "properties": {
+    "ISO_A2":"CI",
+    "name":"Côte d'Ivoire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.236736,-159.777671 ]
+    },
+    "properties": {
+    "ISO_A2":"CK",
+    "name":"Cook Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "ISO_A2":"CL",
+    "name":"Chile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "ISO_A2":"CM",
+    "name":"Cameroon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [35.86166, 104.195397 ]
+    },
+    "properties": {
+    "ISO_A2":"CN",
+    "name":"China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "ISO_A2":"CO",
+    "name":"Colombia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "ISO_A2":"CR",
+    "name":"Costa Rica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "ISO_A2":"CU",
+    "name":"Cuba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.013197,16.002082 ]
+    },
+    "properties": {
+    "ISO_A2":"CV",
+    "name":"Cape Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.447525,105.690449 ]
+    },
+    "properties": {
+    "ISO_A2":"CX",
+    "name":"Christmas Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "ISO_A2":"CY",
+    "name":"Cyprus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472962,49.817492 ]
+    },
+    "properties": {
+    "ISO_A2":"CZ",
+    "name":"Czech Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "ISO_A2":"DE",
+    "name":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.590275,11.825138 ]
+    },
+    "properties": {
+    "ISO_A2":"DJ",
+    "name":"Djibouti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "ISO_A2":"DK",
+    "name":"Denmark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "ISO_A2":"DM",
+    "name":"Dominica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "ISO_A2":"DO",
+    "name":"Dominican Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.659626,28.033886 ]
+    },
+    "properties": {
+    "ISO_A2":"DZ",
+    "name":"Algeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "ISO_A2":"EC",
+    "name":"Ecuador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595272 ]
+    },
+    "properties": {
+    "ISO_A2":"EE",
+    "name":"Estonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "ISO_A2":"EG",
+    "name":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.885834,24.215527 ]
+    },
+    "properties": {
+    "ISO_A2":"EH",
+    "name":"Western Sahara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.782334,15.179384 ]
+    },
+    "properties": {
+    "ISO_A2":"ER",
+    "name":"Eritrea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74922,40.463667 ]
+    },
+    "properties": {
+    "ISO_A2":"ES",
+    "name":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.489673,9.145 ]
+    },
+    "properties": {
+    "ISO_A2":"ET",
+    "name":"Ethiopia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "ISO_A2":"FI",
+    "name":"Finland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.578193 ,179.414413]
+    },
+    "properties": {
+    "ISO_A2":"FJ",
+    "name":"Fiji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.523613,-51.796253 ]
+    },
+    "properties": {
+    "ISO_A2":"FK",
+    "name":"Falkland Islands [Islas Malvinas]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.425554 , 150.550812]
+    },
+    "properties": {
+    "ISO_A2":"FM",
+    "name":"Micronesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.911806,61.892635 ]
+    },
+    "properties": {
+    "ISO_A2":"FO",
+    "name":"Faroe Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "ISO_A2":"FR",
+    "name":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "ISO_A2":"GA",
+    "name":"Gabon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "ISO_A2":"GB",
+    "name":"United Kingdom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "ISO_A2":"GD",
+    "name":"Grenada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356892,42.315407 ]
+    },
+    "properties": {
+    "ISO_A2":"GE",
+    "name":"Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.125782,3.933889 ]
+    },
+    "properties": {
+    "ISO_A2":"GF",
+    "name":"French Guiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.585278,49.465691 ]
+    },
+    "properties": {
+    "ISO_A2":"GG",
+    "name":"Guernsey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.023194,7.946527 ]
+    },
+    "properties": {
+    "ISO_A2":"GH",
+    "name":"Ghana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.345374,36.137741 ]
+    },
+    "properties": {
+    "ISO_A2":"GI",
+    "name":"Gibraltar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.604303,71.706936 ]
+    },
+    "properties": {
+    "ISO_A2":"GL",
+    "name":"Greenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "ISO_A2":"GM",
+    "name":"Gambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "ISO_A2":"GN",
+    "name":"Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.067641,16.995971 ]
+    },
+    "properties": {
+    "ISO_A2":"GP",
+    "name":"Guadeloupe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.267895,1.650801 ]
+    },
+    "properties": {
+    "ISO_A2":"GQ",
+    "name":"Equatorial Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "ISO_A2":"GR",
+    "name":"Greece"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.587909,-54.429579 ]
+    },
+    "properties": {
+    "ISO_A2":"GS",
+    "name":"South Georgia and the South Sandwich Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [15.783471, -90.230759]
+    },
+    "properties": {
+    "ISO_A2":"GT",
+    "name":"Guatemala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.444304 , 144.793731]
+    },
+    "properties": {
+    "ISO_A2":"GU",
+    "name":"Guam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.180413,11.803749 ]
+    },
+    "properties": {
+    "ISO_A2":"GW",
+    "name":"Guinea-Bissau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.93018,4.860416 ]
+    },
+    "properties": {
+    "ISO_A2":"GY",
+    "name":"Guyana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.308825,31.354676 ]
+    },
+    "properties": {
+    "ISO_A2":"GZ",
+    "name":"Gaza Strip"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.396428,114.109497 ]
+    },
+    "properties": {
+    "ISO_A2":"HK",
+    "name":"Hong Kong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.504158,-53.08181 ]
+    },
+    "properties": {
+    "ISO_A2":"HM",
+    "name":"Heard Island and McDonald Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "ISO_A2":"HN",
+    "name":"Honduras"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "ISO_A2":"HR",
+    "name":"Croatia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.285215,18.971187 ]
+    },
+    "properties": {
+    "ISO_A2":"HT",
+    "name":"Haiti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "ISO_A2":"HU",
+    "name":"Hungary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.789275 ,113.921327]
+    },
+    "properties": {
+    "ISO_A2":"ID",
+    "name":"Indonesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.24389,53.41291 ]
+    },
+    "properties": {
+    "ISO_A2":"IE",
+    "name":"Ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051 ]
+    },
+    "properties": {
+    "ISO_A2":"IL",
+    "name":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.548056,54.236107 ]
+    },
+    "properties": {
+    "ISO_A2":"IM",
+    "name":"Isle of Man"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.96288,20.593684 ]
+    },
+    "properties": {
+    "ISO_A2":"IN",
+    "name":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.876519,-6.343194 ]
+    },
+    "properties": {
+    "ISO_A2":"IO",
+    "name":"British Indian Ocean Territory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.679291,33.223191 ]
+    },
+    "properties": {
+    "ISO_A2":"IQ",
+    "name":"Iraq"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.688046,32.427908 ]
+    },
+    "properties": {
+    "ISO_A2":"IR",
+    "name":"Iran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.963051 ]
+    },
+    "properties": {
+    "ISO_A2":"IS",
+    "name":"Iceland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "ISO_A2":"IT",
+    "name":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13125,49.214439 ]
+    },
+    "properties": {
+    "ISO_A2":"JE",
+    "name":"Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "ISO_A2":"JM",
+    "name":"Jamaica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "ISO_A2":"JO",
+    "name":"Jordan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.204824 ,138.252924]
+    },
+    "properties": {
+    "ISO_A2":"JP",
+    "name":"Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "ISO_A2":"KE",
+    "name":"Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "ISO_A2":"KG",
+    "name":"Kyrgyzstan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.565679,104.990963 ]
+    },
+    "properties": {
+    "ISO_A2":"KH",
+    "name":"Cambodia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.370417,-168.734039 ]
+    },
+    "properties": {
+    "ISO_A2":"KI",
+    "name":"Kiribati"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "ISO_A2":"KM",
+    "name":"Comoros"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "ISO_A2":"KN",
+    "name":"Saint Kitts and Nevis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.339852,127.510093 ]
+    },
+    "properties": {
+    "ISO_A2":"KP",
+    "name":"North Korea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [35.907757, 127.766922 ]
+    },
+    "properties": {
+    "ISO_A2":"KR",
+    "name":"South Korea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.481766,29.31166 ]
+    },
+    "properties": {
+    "ISO_A2":"KW",
+    "name":"Kuwait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.566956,19.513469 ]
+    },
+    "properties": {
+    "ISO_A2":"KY",
+    "name":"Cayman Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "ISO_A2":"KZ",
+    "name":"Kazakhstan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [19.85627, 102.495496 ]
+    },
+    "properties": {
+    "ISO_A2":"LA",
+    "name":"Laos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721 ]
+    },
+    "properties": {
+    "ISO_A2":"LB",
+    "name":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "ISO_A2":"LC",
+    "name":"Saint Lucia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.555373,47.166 ]
+    },
+    "properties": {
+    "ISO_A2":"LI",
+    "name":"Liechtenstein"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "ISO_A2":"LK",
+    "name":"Sri Lanka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.428055 ]
+    },
+    "properties": {
+    "ISO_A2":"LR",
+    "name":"Liberia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.233608,-29.609988 ]
+    },
+    "properties": {
+    "ISO_A2":"LS",
+    "name":"Lesotho"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "ISO_A2":"LT",
+    "name":"Lithuania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "ISO_A2":"LU",
+    "name":"Luxembourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "ISO_A2":"LV",
+    "name":"Latvia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.228331,26.3351 ]
+    },
+    "properties": {
+    "ISO_A2":"LY",
+    "name":"Libya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "ISO_A2":"MA",
+    "name":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.412841,43.750298 ]
+    },
+    "properties": {
+    "ISO_A2":"MC",
+    "name":"Monaco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369885,47.411631 ]
+    },
+    "properties": {
+    "ISO_A2":"MD",
+    "name":"Moldova"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678 ]
+    },
+    "properties": {
+    "ISO_A2":"ME",
+    "name":"Montenegro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "ISO_A2":"MG",
+    "name":"Madagascar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.131474,171.184478 ]
+    },
+    "properties": {
+    "ISO_A2":"MH",
+    "name":"Marshall Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.745275,41.608635 ]
+    },
+    "properties": {
+    "ISO_A2":"MK",
+    "name":"North Macedonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "ISO_A2":"ML",
+    "name":"Mali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [21.913965, 95.956223 ]
+    },
+    "properties": {
+    "ISO_A2":"MM",
+    "name":"Myanmar [Burma]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [46.862496, 103.846656 ]
+    },
+    "properties": {
+    "ISO_A2":"MN",
+    "name":"Mongolia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [22.198745, 113.543873 ]
+    },
+    "properties": {
+    "ISO_A2":"MO",
+    "name":"Macau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.33083,145.38469 ]
+    },
+    "properties": {
+    "ISO_A2":"MP",
+    "name":"Northern Mariana Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.024174,14.641528 ]
+    },
+    "properties": {
+    "ISO_A2":"MQ",
+    "name":"Martinique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.940835,21.00789 ]
+    },
+    "properties": {
+    "ISO_A2":"MR",
+    "name":"Mauritania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.187366,16.742498 ]
+    },
+    "properties": {
+    "ISO_A2":"MS",
+    "name":"Montserrat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "ISO_A2":"MT",
+    "name":"Malta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404 ]
+    },
+    "properties": {
+    "ISO_A2":"MU",
+    "name":"Mauritius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22068,3.202778 ]
+    },
+    "properties": {
+    "ISO_A2":"MV",
+    "name":"Maldives"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254308 ]
+    },
+    "properties": {
+    "ISO_A2":"MW",
+    "name":"Malawi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [23.634501, -102.552784 ]
+    },
+    "properties": {
+    "ISO_A2":"MX",
+    "name":"Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [4.210484, 101.975766 ]
+    },
+    "properties": {
+    "ISO_A2":"MY",
+    "name":"Malaysia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "ISO_A2":"MZ",
+    "name":"Mozambique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "ISO_A2":"NA",
+    "name":"Namibia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-20.904305, 165.618042 ]
+    },
+    "properties": {
+    "ISO_A2":"NC",
+    "name":"New Caledonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "ISO_A2":"NE",
+    "name":"Niger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-29.040835, 167.954712 ]
+    },
+    "properties": {
+    "ISO_A2":"NF",
+    "name":"Norfolk Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277,9.081999 ]
+    },
+    "properties": {
+    "ISO_A2":"NG",
+    "name":"Nigeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "ISO_A2":"NI",
+    "name":"Nicaragua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "ISO_A2":"NL",
+    "name":"Netherlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "ISO_A2":"NO",
+    "name":"Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124008,28.394857 ]
+    },
+    "properties": {
+    "ISO_A2":"NP",
+    "name":"Nepal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.522778,166.931503 ]
+    },
+    "properties": {
+    "ISO_A2":"NR",
+    "name":"Nauru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.054445,-169.867233 ]
+    },
+    "properties": {
+    "ISO_A2":"NU",
+    "name":"Niue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -40.900557,174.885971 ]
+    },
+    "properties": {
+    "ISO_A2":"NZ",
+    "name":"New Zealand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.923255,21.512583 ]
+    },
+    "properties": {
+    "ISO_A2":"OM",
+    "name":"Oman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "ISO_A2":"PA",
+    "name":"Panama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "ISO_A2":"PE",
+    "name":"Peru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.679742,-149.406843 ]
+    },
+    "properties": {
+    "ISO_A2":"PF",
+    "name":"French Polynesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.314993,143.95555 ]
+    },
+    "properties": {
+    "ISO_A2":"PG",
+    "name":"Papua New Guinea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.879721, 121.774017 ]
+    },
+    "properties": {
+    "ISO_A2":"PH",
+    "name":"Philippines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.345116,30.375321 ]
+    },
+    "properties": {
+    "ISO_A2":"PK",
+    "name":"Pakistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145136,51.919438 ]
+    },
+    "properties": {
+    "ISO_A2":"PL",
+    "name":"Poland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.27111,46.941936 ]
+    },
+    "properties": {
+    "ISO_A2":"PM",
+    "name":"Saint Pierre and Miquelon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.703615,-127.439308 ]
+    },
+    "properties": {
+    "ISO_A2":"PN",
+    "name":"Pitcairn Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "ISO_A2":"PR",
+    "name":"Puerto Rico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.233154,31.952162 ]
+    },
+    "properties": {
+    "ISO_A2":"PS",
+    "name":"Palestinian Territories"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399872 ]
+    },
+    "properties": {
+    "ISO_A2":"PT",
+    "name":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.51498 , 134.58252]
+    },
+    "properties": {
+    "ISO_A2":"PW",
+    "name":"Palau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.443832,-23.442503 ]
+    },
+    "properties": {
+    "ISO_A2":"PY",
+    "name":"Paraguay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "ISO_A2":"QA",
+    "name":"Qatar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.536384,-21.115141 ]
+    },
+    "properties": {
+    "ISO_A2":"RE",
+    "name":"Réunion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943161 ]
+    },
+    "properties": {
+    "ISO_A2":"RO",
+    "name":"Romania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521 ]
+    },
+    "properties": {
+    "ISO_A2":"RS",
+    "name":"Serbia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.52401, 105.318756]
+    },
+    "properties": {
+    "ISO_A2":"RU",
+    "name":"Russia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.873888,-1.940278 ]
+    },
+    "properties": {
+    "ISO_A2":"RW",
+    "name":"Rwanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.079162,23.885942 ]
+    },
+    "properties": {
+    "ISO_A2":"SA",
+    "name":"Saudi Arabia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-9.64571, 160.156194 ]
+    },
+    "properties": {
+    "ISO_A2":"SB",
+    "name":"Solomon Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.491977,-4.679574 ]
+    },
+    "properties": {
+    "ISO_A2":"SC",
+    "name":"Seychelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.217636,12.862807 ]
+    },
+    "properties": {
+    "ISO_A2":"SD",
+    "name":"Sudan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "ISO_A2":"SE",
+    "name":"Sweden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [1.352083, 103.819836 ]
+    },
+    "properties": {
+    "ISO_A2":"SG",
+    "name":"Singapore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.030696,-24.143474 ]
+    },
+    "properties": {
+    "ISO_A2":"SH",
+    "name":"Saint Helena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "ISO_A2":"SI",
+    "name":"Slovenia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.670272,77.553604 ]
+    },
+    "properties": {
+    "ISO_A2":"SJ",
+    "name":"Svalbard and Jan Mayen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699024,48.669026 ]
+    },
+    "properties": {
+    "ISO_A2":"SK",
+    "name":"Slovakia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555 ]
+    },
+    "properties": {
+    "ISO_A2":"SL",
+    "name":"Sierra Leone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.457777,43.94236 ]
+    },
+    "properties": {
+    "ISO_A2":"SM",
+    "name":"San Marino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "ISO_A2":"SN",
+    "name":"Senegal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.199616,5.152149 ]
+    },
+    "properties": {
+    "ISO_A2":"SO",
+    "name":"Somalia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.027783,3.919305 ]
+    },
+    "properties": {
+    "ISO_A2":"SR",
+    "name":"Suriname"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.613081,0.18636 ]
+    },
+    "properties": {
+    "ISO_A2":"ST",
+    "name":"São Tomé and Príncipe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "ISO_A2":"SV",
+    "name":"El Salvador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815,34.802075 ]
+    },
+    "properties": {
+    "ISO_A2":"SY",
+    "name":"Syria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.465866,-26.522503 ]
+    },
+    "properties": {
+    "ISO_A2":"SZ",
+    "name":"Swaziland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.797928,21.694025 ]
+    },
+    "properties": {
+    "ISO_A2":"TC",
+    "name":"Turks and Caicos Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "ISO_A2":"TD",
+    "name":"Chad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.348557,-49.280366 ]
+    },
+    "properties": {
+    "ISO_A2":"TF",
+    "name":"French Southern Territories"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "ISO_A2":"TG",
+    "name":"Togo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [15.870032 , 100.992541]
+    },
+    "properties": {
+    "ISO_A2":"TH",
+    "name":"Thailand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "ISO_A2":"TJ",
+    "name":"Tajikistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-8.967363, -171.855881 ]
+    },
+    "properties": {
+    "ISO_A2":"TK",
+    "name":"Tokelau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-8.874217, 125.727539 ]
+    },
+    "properties": {
+    "ISO_A2":"TL",
+    "name":"East Timor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278,38.969719 ]
+    },
+    "properties": {
+    "ISO_A2":"TM",
+    "name":"Turkmenistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "ISO_A2":"TN",
+    "name":"Tunisia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-21.178986, -175.198242 ]
+    },
+    "properties": {
+    "ISO_A2":"TO",
+    "name":"Tonga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "ISO_A2":"TR",
+    "name":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "ISO_A2":"TT",
+    "name":"Trinidad and Tobago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-7.109535, 177.64933]
+    },
+    "properties": {
+    "ISO_A2":"TV",
+    "name":"Tuvalu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.69781 ,120.960515]
+    },
+    "properties": {
+    "ISO_A2":"TW",
+    "name":"Taiwan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "ISO_A2":"TZ",
+    "name":"Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "ISO_A2":"UA",
+    "name":"Ukraine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "ISO_A2":"UG",
+    "name":"Uganda"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.09024,-95.712891 ]
+    },
+    "properties": {
+    "ISO_A2":"US",
+    "name":"United States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765835,-32.522779 ]
+    },
+    "properties": {
+    "ISO_A2":"UY",
+    "name":"Uruguay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "ISO_A2":"UZ",
+    "name":"Uzbekistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.453389,41.902916 ]
+    },
+    "properties": {
+    "ISO_A2":"VA",
+    "name":"Vatican City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "ISO_A2":"VC",
+    "name":"Saint Vincent and the Grenadines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "ISO_A2":"VE",
+    "name":"Venezuela"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.639968,18.420695 ]
+    },
+    "properties": {
+    "ISO_A2":"VG",
+    "name":"British Virgin Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.896335,18.335765 ]
+    },
+    "properties": {
+    "ISO_A2":"VI",
+    "name":"U.S. Virgin Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.058324,108.277199 ]
+    },
+    "properties": {
+    "ISO_A2":"VN",
+    "name":"Vietnam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-15.376706, 166.959158 ]
+    },
+    "properties": {
+    "ISO_A2":"VU",
+    "name":"Vanuatu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-13.768752, -177.156097 ]
+    },
+    "properties": {
+    "ISO_A2":"WF",
+    "name":"Wallis and Futuna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.759029,-172.104629 ]
+    },
+    "properties": {
+    "ISO_A2":"WS",
+    "name":"Samoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.516388,15.552727 ]
+    },
+    "properties": {
+    "ISO_A2":"YE",
+    "name":"Yemen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.166244,-12.8275 ]
+    },
+    "properties": {
+    "ISO_A2":"YT",
+    "name":"Mayotte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "ISO_A2":"ZA",
+    "name":"South Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "ISO_A2":"ZM",
+    "name":"Zambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "ISO_A2":"ZW",
+    "name":"Zimbabwe"
+    }
+  }
+]
+}
